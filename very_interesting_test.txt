@@ -18,3 +18,5 @@ his text here.
 Before merging the two branches, AStudent
 writes a very nice conclusion for the document
 and commits it.
+
+What is my colleague doing? Can you see my commit?
